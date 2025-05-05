@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=238636&center=true&vCenter=true&repeat=true&width=435&lines=Jogo+Amigo+Secreto+%F0%9F%8E%81!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=238636&center=true&vCenter=true&repeat=true&width=435&lines=Jogo+Amigo+Secreto+%F0%9F%8E%81!" alt="Jogo Amigo Secreto" />
   </a>
 </div>
 
